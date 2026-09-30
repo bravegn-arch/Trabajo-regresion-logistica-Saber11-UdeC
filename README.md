@@ -17,7 +17,7 @@ Modelado con Regresión Logística Binaria → Evaluación con Matriz de Confusi
 ```
 
 
-TRABAJO-REGRESION-SABER-11/
+TRABAJO-REGRESION-LOGISTICA-SABER-11/
 ├── data/
 │   ├── raw_saber11.csv        # datos crudos (inmutables) de la API
 │   └── clean_saber11_clasificacion.csv      # datos limpios listos para modelar
