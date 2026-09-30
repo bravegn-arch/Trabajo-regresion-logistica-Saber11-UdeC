@@ -65,4 +65,4 @@ La semilla de aleatoriedad está fijada en random_state = 42.
 si no hay conexión, usa automáticamente la copia local guardada en data/ como respaldo.
 - La variable `estrato` se extrajo mediante expresiones regulares (re.search(r'\d+')) a partir de la columna cualitativa fami_estratovivienda
 - La variable punt_global se elimina tras generar la etiqueta binaria alto_rendimiento.
--Las variables explicativas se transforman con StandardScaler ($\mu=0, \sigma=1$) antes de ajustar la regresión logística para optimizar el cálculo de coeficientes y comparar sus Odds Ratios.
+-Las variables explicativas se transforman con StandardScaler (mu=0, sigma=1) antes de ajustar la regresión logística para optimizar el cálculo de coeficientes y comparar sus Odds Ratios.
