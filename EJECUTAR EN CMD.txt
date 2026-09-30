@@ -1,0 +1,17 @@
+1. ABRIR CMD
+2. cd C:\Users\brayan.vega\Desktop\DOCUMENTOS PERSONALES\UNIVERSIDAD\MACHINE LEARNING\TRABAJO-REGRESION-SABER-11
+3. pip install -r requirements.txt
+4. python main.py
+5. OPCION 5 DEL MENU:
+
+============================================================
+ PIPELINE DE REGRESIÓN LINEAL - SABER 11 COLOMBIA
+ Autor: Brayan Yesid Vega Niño
+============================================================
+ 1. Recolectar datos desde API Socrata (01_recoleccion.py)
+ 2. Ejecutar Limpieza y EDA (02_eda_limpieza.py)
+ 3. Entrenar Modelo de Regresión Lineal (03_modelamiento.py)
+ 4. Evaluar y Generar Gráficas (04_evaluacion_graficas.py)
+ 5. EJECUTAR PIPELINE COMPLETO (Pasos 1 a 4)
+ 0. Salir
+============================================================
